@@ -1,11 +1,9 @@
-/* Reset básico */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Estilos gerais */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -157,7 +155,6 @@ footer p {
     background-color: hwb(142 4% 28%);
 }
 
-/* Responsividade */
 @media (max-width: 768px) {
     .container {
         width: 90%;
